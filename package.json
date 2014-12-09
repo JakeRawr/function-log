@@ -15,7 +15,7 @@
     "debug",
     "function-log"
   ],
-  "author": "Tsung-Han Yang",
+  "author": "Tsung-Han Yang <tsunghan614@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JakeRawr/function-log/issues"
