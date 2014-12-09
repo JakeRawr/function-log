@@ -2,7 +2,7 @@
   "name": "function-log",
   "version": "0.1.0",
   "description": "This npm helps to debug what comes in and out of a function",
-  "main": "./lib/main",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
